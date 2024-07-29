@@ -1,0 +1,18 @@
+[
+  {
+    "Constant": true,
+    "Name": "KaabaLong",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "39.8262",
+    "IsLiteral": true
+  },
+  {
+    "Constant": true,
+    "Name": "KaabaLat",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "21.4225",
+    "IsLiteral": true
+  }
+]
